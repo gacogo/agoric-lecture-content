@@ -40,7 +40,7 @@ goals [15]. This rights-based perspective can shed light on the problem of secur
 In this context, we can use electronic rights to address the real-world problems which are currently being 
 resolved by the rights we know as `normal`. Using contracts, law, courts, etc.
 
-### Electornical right vs eright
+### Electronic right vs eright
 Let's imagine Alice, Bob, and Carol from the `Granovetter Operator` are some objects living in a `ocap` environment.
 - Alice has the `right` to invoke a resource from Carol.
 - Alice knows Bob so she can pass her right to invoke Carol to Bob. Bob has no way of invoking Carol if Alice refuses to
